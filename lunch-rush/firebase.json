@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      ".DS_Store",
+      ".env"
+    ]
+  }
+}
